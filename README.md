@@ -1,2 +1,2 @@
 # MachineLearningAlgorithms
-This repository contain a few basic Machine Learning Algorithms which are essential for big projects
+This repository contains essential Machine Learning Algorithms which are needed for big projects
